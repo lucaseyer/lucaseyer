@@ -77,8 +77,8 @@ Automation intelligence layer for test observability and failure analysis.
 
 ## 🌐 Connect
 
-- GitHub: https://github.com/lucaseyer  
-- Portfolio: https://lucaseyer.dev  
+- LinkedIn: https://www.linkedin.com/in/lucas-eyer/ 
+- Portfolio: https://lucaseyer.dev
 
 ---
 
