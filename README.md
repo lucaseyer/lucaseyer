@@ -1,82 +1,110 @@
-# Lucas Eyer
+# 🧠 Lucas Eyer
 
-> building the layer behind test automation
+<p align="center">
+  <img src="./vr-portfolio-nav.gif" width="850" />
+</p>
 
----
-
-## About
-
-I don’t focus on writing tests.
-
-I build systems that **understand them**.
-
-Most tooling stops at execution.  
-I’m interested in what happens after —  
-failures, signals, and how to make them useful.
+<p align="center">
+  <b>Career Journey Lab</b><br/>
+  yes, you can walk through it
+</p>
 
 ---
 
-## Direction
+## 🎮 who am i?
 
-Test automation as infrastructure.
+that depends
 
-- Observability for E2E systems  
-- UI-aware tooling over selector scripting  
-- Debugging time > execution time  
+if you want a resume → wrong place  
+if you want to understand how I think →  
 
----
+👉 **https://lab.lucaseyer.dev**
 
-## Projects
-
-### 🧭 Tabula QA
-
-A way to understand the interface before automating it.
-
-UI mapping, assisted exploration and structured page state.
+*(play my career. no, really.)*
 
 ---
 
-### 🔮 Revelium
+## 🧭 what is going on here?
 
-A layer for test observability and failure analysis.
+this is a portfolio  
 
-Understanding what actually happened during execution.
+but:
+- no scrolling  
+- no sections  
+- no “about me” wall of text  
 
----
-
-## Stack
-
-Playwright · Selenium  
-Python · TypeScript  
-
-CI/CD · Distributed systems  
-
----
-
-## Perspective
-
-Systems > scripts  
-Signal > noise  
-Understanding > detection  
+instead:
+- you walk  
+- you click  
+- things happen  
 
 ---
 
-## Now
+## 🧩 what i build
 
-Designing tools that move QA  
-from execution → understanding
-
----
-
-## Contact
-
-github.com/lucaseyer  
-lucaseyer.dev  
+systems that:
+- test other systems (yes, very meta)  
+- map interfaces like they’re territories  
+- expose behavior that tries to hide  
+- and reduce chaos into something readable  
 
 ---
 
-## Note
+## 🧪 projects
 
-Most automation doesn’t fail because of bugs.
+### 🧠 VR Portfolio  
+> probably the only resume that requires WASD  
 
-It fails because we don’t really understand the system.
+👉 live: https://lab.lucaseyer.dev  
+👉 project: https://lucaseyer.github.io/vr-portfolio/
+
+---
+
+### 🧭 Tabula QA  
+> if the DOM was a map, this would be the compass  
+
+*(still evolving — like all good ideas)*
+
+---
+
+### ⚙️ Revelium  
+> tests that try to understand what they’re doing  
+
+👉 https://github.com/lucaseyer/revelium
+
+---
+
+## 🧠 philosophy
+
+- exploration > navigation  
+- systems > features  
+- signals > noise  
+- experience > explanation  
+
+---
+
+## ⚠️ disclaimer
+
+some parts of this:
+- might be experimental  
+- might be evolving  
+- might make more sense after you walk through it  
+
+---
+
+## 📬 contact
+
+if you made it this far, you already know enough  
+
+but just in case:
+
+- github: https://github.com/lucaseyer  
+- linkedin: (you know where it is)
+
+---
+
+## ⭐ final note
+
+this is not a resume  
+
+it’s closer to a small system pretending to be one
