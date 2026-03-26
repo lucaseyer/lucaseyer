@@ -98,7 +98,7 @@ if you made it this far, you already know enough
 
 but just in case:
 
-- github: https://github.com/lucaseyer  
+- portfolio: https://lucaseyer.dev
 - linkedin: (you know where it is)
 
 ---
