@@ -1,4 +1,4 @@
-# 🧠 Lucas Eyer
+# Lucas Eyer 
 
 <p align="center">
   <img src="./vr-portfolio-nav.gif" width="850" />
