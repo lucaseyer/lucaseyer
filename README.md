@@ -11,9 +11,9 @@
 
 ---
 
-## 🎮 who am i?
+## who am i?
 
-that depends
+that depends 🎩
 
 if you want a resume → wrong place  
 if you want to understand how I think →  
@@ -24,7 +24,7 @@ if you want to understand how I think →
 
 ---
 
-## 🧭 what is going on here?
+## what is going on here?
 
 this is a portfolio  
 
@@ -40,7 +40,7 @@ instead:
 
 ---
 
-## 🧩 what i build
+## what i build
 
 systems that:
 - test other systems (yes, very meta)  
@@ -52,7 +52,7 @@ systems that:
 
 ## 🧪 projects
 
-### 🧠 VR Portfolio  
+### VR Portfolio  
 > probably the only resume that requires WASD  
 
 👉 live: https://lab.lucaseyer.dev  
@@ -60,7 +60,7 @@ systems that:
 
 ---
 
-### 🧪 QA Lab
+### QA Lab
 
 > where systems go to be questioned  
 
@@ -86,21 +86,21 @@ more “what actually happens under load?”
 
 ---
 
-### 🧭 Tabula QA  
+### Tabula QA  
 > if the DOM was a map, this would be the compass  
 
 *(still evolving — like all good ideas)*
 
 ---
 
-### ⚙️ Revelium  
+### Revelium  
 > tests that try to understand what they’re doing  
 
 👉 https://github.com/lucaseyer/revelium
 
 ---
 
-## 🧠 philosophy
+## philosophy
 
 - exploration > navigation  
 - systems > features  
@@ -118,7 +118,7 @@ some parts of this:
 
 ---
 
-## 📬 contact
+## contact
 
 if you made it this far, you already know enough  
 
@@ -129,7 +129,7 @@ but just in case:
 
 ---
 
-## ⭐ final note
+## final note
 
 this is not a resume  
 
