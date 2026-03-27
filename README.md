@@ -56,7 +56,7 @@ systems that:
 > probably the only resume that requires WASD  
 
 👉 live: https://lab.lucaseyer.dev  
-👉 project: https://lucaseyer.github.io/vr-portfolio/
+👉 project: https://github.com/lucaseyer/vr-portfolio
 
 ---
 
