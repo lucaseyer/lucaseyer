@@ -60,6 +60,32 @@ systems that:
 
 ---
 
+### 🧪 QA Lab
+
+> where systems go to be questioned  
+
+a practical environment where things are:
+
+- deployed  
+- observed  
+- stressed  
+- and occasionally broken on purpose
+
+includes:
+
+- APIs + UI flows  
+- containers & infra (k8s, docker-first)  
+- async systems (queues / event-driven behavior)  
+- observability stack (metrics, logs, traces — grafana & friends)  
+- test automation running against all of the above
+
+less “hello world”  
+more “what actually happens under load?”  
+
+👉 [https://github.com/lucaseyer/qa-lab](https://github.com/lucaseyer/qa-lab)
+
+---
+
 ### 🧭 Tabula QA  
 > if the DOM was a map, this would be the compass  
 
